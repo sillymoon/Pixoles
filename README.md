@@ -1,2 +1,2 @@
 # Pixoles
-Maybe it could make Minecraft more *Mojangles* >:)
+Maybe make your Minecraft more *Mojangles* >:)
