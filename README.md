@@ -1,6 +1,9 @@
 ![banner](Document/PixolesTitle.png)
 
 # Pixoles
+
+> *该字体计划应用于Minecraft字体资源包制作中，为Minecraft多语言增添色彩*
+> 
 > Maybe make your Minecraft more *Mojangles* >:)
 
 [![License OFL](https://img.shields.io/badge/license-OFL--1.1-orange)](https://openfontlicense.org)
