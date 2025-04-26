@@ -1,4 +1,4 @@
-![banner](PixolesTitle.png)
+![banner](Document/PixolesTitle.png)
 
 # Pixoles
 Maybe make your Minecraft more *Mojangles* >:)
