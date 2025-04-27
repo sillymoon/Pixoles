@@ -17,3 +17,7 @@
 > [!IMPORTANT]
 > 
 > 该字体采用 SIL 开源字体协议(https://openfontlicense.org)，可免费商用
+
+## 预览 Preview
+![preview-1](Document/1.png)
+![preview-2](Document/2.png)
