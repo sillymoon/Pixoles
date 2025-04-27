@@ -19,5 +19,15 @@
 > 该字体采用 SIL 开源字体协议(https://openfontlicense.org)，可免费商用
 
 ## 预览 Preview
+
+### 原版优化
+
+*针对原版mojangles字体已有字型进行适当优化*
+
 ![preview-1](Document/1.png)
+
+### 多语言适配
+
+*针对原版mojangles字体中未制作的部分，进行风格统一化*
+
 ![preview-2](Document/2.png)
