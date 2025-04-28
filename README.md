@@ -6,7 +6,9 @@
 > 
 > Maybe make your Minecraft more *Mojangles* >:)
 
-[![License OFL](https://img.shields.io/badge/license-OFL--1.1-orange)](https://openfontlicense.org)
+[![License OFL](https://img.shields.io/badge/license-OFL--1.1-blue)](https://openfontlicense.org)
+[![Realeases](https://img.shields.io/badge/releases-v1.0-yellow)](https://github.com/sillymoon/Pixoles/releases/tag/font)
+[![Itch.io](https://img.shields.io/badge/itch.io-pixoles--font-FF2449?logo=itch.io&logoColor=white)](https://hanshuyuri.itch.io/pixoles-font)
 
 > [!WARNING]
 > 
